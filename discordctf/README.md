@@ -230,8 +230,6 @@ Social Engineering 6
 
 > Points: 100
 
-> > > > <@473743276248399873>","username":"kuilin","avatar_url":"https://i.imgur.com/SRWYrTV.jpg","dummy":"
-
 Social Engineering 7
 
 > Title: Social Engineering 7: Impersonation 6

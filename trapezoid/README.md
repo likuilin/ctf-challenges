@@ -1,5 +1,5 @@
-This challenge is written in x86 assembly, first released on 07/28/2019 on the SigPWNY Discord server.
+This challenge is written in LC-3 assembly, first released on 08/15/2019 on the SigPWNY Discord server. 
 
 Format: flag{...}
 
-This challenge does not work in x64. 
+Compile and execute in Prof. Lumetta's LC-3 simulator, available [here](http://highered.mcgraw-hill.com/sites/0072467509/student_view0/lc-3_simulator.html). Not guaranteed to work on any other LC-3 simulator. 

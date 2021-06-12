@@ -1,3 +1,5 @@
+# DiscordCTF is currently not up, and not being hosted anywhere. If you are interested, please contact me at kuilin#1273. The invite links below (mostly, probably) still work, but the challenges are mostly dead because the bot is down. 
+
 DiscordCTF is a 30-stage CTF challenge based on Discord, first released on 04/18/2019 on the SigPWNY Discord server. See slides [here](https://docs.google.com/presentation/d/1-gMZTiNNeJGXlc7SYVR1Wu9s7XBEyx8tmXQZUghRI3I/edit#slide=id.g5682eb4fcc_1_45). 
 
 You must be in the Discord server corresponding to a challenge to solve it successfully, even though some challenges do not require you to join. 

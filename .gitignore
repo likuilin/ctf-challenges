@@ -1,0 +1,5 @@
+_deploy/logs
+_deploy/ctfd-data
+gdbchal/flag.txt
+pow_erful/flag.env
+wasmcloud/flag.txt

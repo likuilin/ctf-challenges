@@ -13,4 +13,4 @@ COPY pow_erful.py .
 RUN adduser chal
 USER chal
 ENV FLAG="uiuctf{FLAG_REDACTED}"
-CMD socat -vvv -T60 tcp-listen:1337,fork,reuseaddr system:"python3 pow_erful.py 2>&1"
+CMD socat -v -v -v -T60 tcp-listen:1337,fork,reuseaddr system:"python3 pow_erful.py 2>&1"
